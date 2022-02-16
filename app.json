@@ -17,7 +17,7 @@
         "web",
         "series"
     ],
-    "repository" : "https://github.com/AJTimePyro/DoodStreamUploaderBot",
+    "repository" : "https://github.com/newkanekibot/Dood",
     "env" : {
         "BOT_TOKEN" : {
             "description" : "Get From https://t.me/BotFather"
