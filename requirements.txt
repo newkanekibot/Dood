@@ -9,4 +9,4 @@ Pyrogram==1.2.20
 PySocks==1.7.1
 requests==2.26.0
 TgCrypto==1.2.2
-urllib3==1.26.7
+urllib3==1.26.8
